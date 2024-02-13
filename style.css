@@ -98,3 +98,11 @@ body {
     padding-left: 5%;
     padding-top: 25px;
 }
+
+#turtles {
+    width: 40px;
+}
+
+#embers {
+    width: 30px;
+}
