@@ -1,0 +1,2 @@
+- Designed after the NRL.com site
+- Made with HTML CSS and Flickity through NPM/nodejs
