@@ -1,0 +1,14 @@
+{
+  "name": "kurt-mann-cup",
+  "version": "1.0.0",
+  "description": "Website for Kurt Mann Cup Supercoach League",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugh Roberts",
+  "license": "ISC",
+  "dependencies": {
+    "flickity": "^3.0.0"
+  }
+}
